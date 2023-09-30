@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Ungraduated Student Information Tech Fasilkom Unej<br>🎲 Ask Me About Anything<br>🎴 My Blog : itsMallix.super.site</p>
+<p align="left">✨ Ungraduated Student Information Tech Fasilkom Unej<br>🎲 Ask Me About Anything<br>🎴 My Blog : <a>itsMallix.super.site</a></p>
 
 ###
 
