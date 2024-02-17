@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Ungraduated Student Information Tech Fasilkom Unej<br>🎲 Ask Me About Anything<br>🎴 I'm A Newbie</p>
+<p align="left">✨ Ungraduated Student Information Tech Fasilkom Unej<br>🎲 Ask Me About Anything<br>🎴 I'm A Fast Learning</p>
 
 ###
 
