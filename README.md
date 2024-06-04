@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Ungraduated Student Information Tech Fasilkom Unej<br>🎲 Ask Me About Anything<br>🎴 I'm Believe In Progress<br>🦖 I'm Still Learning<br>✏️ Like Design Graphic<br>🪈 Fluetter Enthushiast</p>
+<p align="left">✨ Ungraduated Student Information Tech Fasilkom Unej<br>🎲 Ask Me About Anything<br>🎴 I'm Believe In Progress<br>🦖 I'm Still Learning<br>✏️ Like Design Graphic<br>🪈 Fluetter Enthushiast<br>📱UI/UX Enthushiast</p>
 
 ###
 
