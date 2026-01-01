@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Graduated Student Information Tech Fasilkom Unej<br>🤙 Mobile Dev<br>🎲 Ask Me About Anything<br>🎴 I'm Believe In Progress<br>🦖 Hungry Learner<br>✏️ Like Design Graphic<br>🪈 Flutter Enthushiast<br>📱 UI/UX Enthushiast</p>
+<p align="left">✨ Graduated Student Information Tech Fasilkom Unej<br>🤙 Mobile Dev<br>🎲 Ask Me About Anything<br>🎴 I'm Believe In Progress<br>🦖 Hungry Learner<br>✏️ Like Design Graphic<br>🤓 Flutter Enthushiast<br>📱 UI/UX Enthushiast</p>
 
 
 ###
